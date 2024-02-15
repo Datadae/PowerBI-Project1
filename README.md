@@ -1,7 +1,7 @@
 # PowerBI-Project 1 - Mountain Climbing Accidents Dataset
 Project 1 - Mountain Climbing Accidents Dataset Analysis
 
-**##Project Description**
+# **Project Description**
 
 In this Project I analyze and gained insight on "Mountian climbers Accident dataset". Climbers who died while attempting to summit the world's eight thousanders.
 
