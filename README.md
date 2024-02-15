@@ -13,12 +13,12 @@ This dataset contains information on climbers who tragically lost their lives wh
 
 Data subset collected from kaggle: https://www.kaggle.com/datasets/asaniczka/mountain-climbing-accidents-dataset
 
--> Importing Dataset in PowerBi Dekstop
--> Performing transformationa and cleaning (ETL) operations on the datset in power query editor.
--> Created data model by building relationship between Dimension and fact tables
--> Using DAX to create necessary measure
--> Created visualization using various charts
--> Prepared PowerBi report
+1. Importing Dataset in PowerBi Dekstop.
+2. Performing transformationa and cleaning (ETL) operations on the datset in power query editor.
+3. Created data model by building relationship between Dimension and fact tables.
+4. Using DAX to create necessary measure.
+5. Created visualization using various charts.
+6. Prepared PowerBi report.
 
 ## **Analysis Insights**
 The dashboard shows:
