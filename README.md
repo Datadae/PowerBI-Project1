@@ -20,7 +20,7 @@ Data subset collected from kaggle: https://www.kaggle.com/datasets/asaniczka/mou
 -> Created visualization using various charts
 -> Prepared PowerBi report
 
-**#Analysis Insights**
+## **Analysis Insights**
 The dashboard shows:
 
 1. Most of the death took place in the month of "May". It's the peak season of summer and most climbers try the summit during this peroid.
@@ -28,3 +28,6 @@ The dashboard shows:
 3. The most fatality were of the people who belonged to Nepal. Since, out of 14 peaks most of them are in nepal. It justify that more people from Nepal try reaching the summit.
 4. 2013 recorded the most death in a year of the climbers. A sum of 45 deaths were recorded.
 5. Mount Everest the tallest mountain has record of the most fatality, 30.58% climbers have lost their life on it.Being the tallest peak and more number of climbers trying to reach it sumit shows why more death are on this mountian range.
+
+![image](https://github.com/Datadae/PowerBI-Project1/assets/108192338/f2580d3a-0689-4e40-ab59-56b4c103dbef)
+
