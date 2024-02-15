@@ -5,11 +5,11 @@ Project 1 - Mountain Climbing Accidents Dataset Analysis
 
 In this Project I analyze and gained insight on "Mountian climbers Accident dataset". Climbers who died while attempting to summit the world's eight thousanders.
 
-**#About Dataset**
+## **About Dataset**
 
 This dataset contains information on climbers who tragically lost their lives while attempting to summit the iconic eight thousanders. The eight thousanders are the 14 mountain peaks that reach or exceed an altitude of 8,000 meters above sea level.
 
-**#Roadmap**
+## **Roadmap**
 
 Data subset collected from kaggle: https://www.kaggle.com/datasets/asaniczka/mountain-climbing-accidents-dataset
 
