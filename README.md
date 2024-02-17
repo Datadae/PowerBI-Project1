@@ -3,7 +3,7 @@ Project 1 - Mountain Climbing Accidents Dataset Analysis
 
 # **Project Description**
 
-In this Project I analyze and gained insight on "Mountian climbers Accident dataset". Climbers who died while attempting to summit the world's eight thousanders.
+In this project, I conducted a comprehensive analysis of the 'Mountain Climbers Accident Dataset,' specifically targeting fatalities that occurred during attempts to summit the world's highest peaks, commonly referred to as the eight-thousanders. The primary objective was to extract valuable insights regarding the circumstances, patterns, and contributing factors associated with these tragic incidents.
 
 ## **About Dataset**
 
@@ -23,11 +23,11 @@ Data subset collected from kaggle: https://www.kaggle.com/datasets/asaniczka/mou
 ## **Analysis Insights**
 The dashboard shows:
 
-1. Most of the death took place in the month of "May". It's the peak season of summer and most climbers try the summit during this peroid.
-2. Most common casuse of death was due to "Avalanche".
-3. The most fatality were of the people who belonged to Nepal. Since, out of 14 peaks most of them are in nepal. It justify that more people from Nepal try reaching the summit.
-4. 2013 recorded the most death in a year of the climbers. A sum of 45 deaths were recorded.
-5. Mount Everest the tallest mountain has record of the most fatality, 30.58% climbers have lost their life on it.Being the tallest peak and more number of climbers trying to reach it sumit shows why more death are on this mountian range.
+1. Majority of fatalities occurred during the month of "May", which coincides with the peak season for climbing these mountains. This suggests that climbers tend to attempt summits during this period, leading to a higher incidence of accidents.
+2. It was observed that the highest number of fatalities occurred among climbers from Nepal. This can be attributed to the fact that Nepal is home to most of the world's tallest peaks, indicating a higher number of Nepali climbers attempting to these summits.
+3. Most common cause of death of the climbers was due to "Avalanches". This highlights the significant risk posed by avalanches in mountainous regions and shows the importance of avalanche safety measures for climbers.
+4. Year 2013 recorded the highest number of deaths among climbers, with a total of 45 fatalities.
+5. Mount Everest, the tallest mountain in the world, accounted for the highest number of fatalities, with 30.58% of climbers losing their lives on this peak. The significant number of fatalities on Mount Everest can be attributed to its extreme height and popularity among climbers, resulting in a higher volume of summit attempts and consequently, a greater risk of accidents.
 
 ![image](https://github.com/Datadae/PowerBI-Project1/assets/108192338/f2580d3a-0689-4e40-ab59-56b4c103dbef)
 
